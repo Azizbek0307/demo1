@@ -4,4 +4,6 @@ print(Fore.YELLOW + ' sariq')
 print(Fore.GREEN + 'yashil')
 
 
-print(Fore.BLUE + "kok")
+print(Fore.BLUE + "kok" ,)
+c=input("input kiriting :")
+ 
